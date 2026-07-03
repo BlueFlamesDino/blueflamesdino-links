@@ -1,2 +1,3 @@
-# blueflamesdino-links
-A link in bio repo, but more.
+# Highlights
+- [FMHY : Wiki](fmhy.net)
+- [Reason : Playlist](https://youtube.com/playlist?list=PLXBncRvnYxV59AFtA35BKI2-6omvylfcZ)
