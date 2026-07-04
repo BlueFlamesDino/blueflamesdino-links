@@ -30,4 +30,4 @@ https://open.spotify.com/track/2YkIDPL5lGhRhomCq4S2RO?si=I_cUxqXtSJK79EwwDAAGpw)
 # Helpful Resources
 - [FMHY : Wiki](https://fmhy.net)
 # Misc.
-- [Reason : Youtube Playlist](https://youtube.com/playlist?list=PLXBncRvnYxV59AFtA35BKI2-6omvylfcZ)
+- [Reason : Youtube Playlist (My own)](https://youtube.com/playlist?list=PLXBncRvnYxV59AFtA35BKI2-6omvylfcZ)
