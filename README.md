@@ -15,6 +15,8 @@ https://open.spotify.com/track/4iXkhdO1s4x1aleZNowIJ0?si=moWUktLoSAiRj64cUdJaGw)
 https://open.spotify.com/track/4q8sTzuKUiLVtu6b2Hb2o6?si=5QlhxL-gQku9_H8WqDQeDA)
 - [Elmo's Song]( 
 https://open.spotify.com/track/3PQfLpp4ctkcwwVg1VnMlH?si=NaTaHh4ARiaRgQpGGJ-V7Q)
+- [Industry Baby](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK?si=o02uS0W0R82OxZsPVHNcpw)
+- [Alone](https://open.spotify.com/track/3MEYFivt6bilQ9q9mFWZ4g?si=HK0WFLPHSsirdn72k-n-Sw)
 - [Tears]( 
 https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4?si=i_5HWifnSE-bX_eNjdteuA)
 - [Something To Feel]( 
